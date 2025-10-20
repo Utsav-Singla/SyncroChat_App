@@ -1,4 +1,4 @@
-<h1 align="center">✨ SyncroChat with Chat & Video Calling ✨</h1>
+<h1 align="center">✨ Syncro Chat with Chat & Video Calling ✨</h1>
 
 Highlights:
 
